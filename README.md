@@ -162,7 +162,7 @@ Eu, como admin, quero um FAQ na minha página que mostre soluções para problem
 - **Sprint 1**
 
 - Product Backlog
-- Spring backlog
+- Sprint backlog
 - Modelagem de dados
 - Protótipo 
 
