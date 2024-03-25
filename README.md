@@ -208,7 +208,20 @@ Eu, como admin, quero um FAQ na minha página que mostre soluções para problem
     - **Task 3.1:** Interface para Visualização de Informações da Conta
 
 ### Sprint 2 (3 semanas):
-**Objetivo**: Implementar funcionalidades de autenticação avançadas e começar a trabalhar na interface do usuário para tickets.
+**Objetivo**: Desenvolver funcionalidades de tickets básicos.
+
+- **User Story 7:**
+    - **Task 7.1:** Formulário de Criação de Tickets
+
+- **User Story 8:**
+    - **Task 8.1:** Funcionalidade de Resposta a Tickets
+    
+- **User Story 5:**
+    - **Task 5.1:** Adicionar Funcionalidade de Marcação de Ticket Concluído
+
+
+### Sprint 3 (3 semanas):
+**Objetivo**: Implementar funcionalidades de autenticação avançadas e começar a trabalhar na interface do usuário.
 
 - **User Story 1:**
     - **Task 1.3:** Interface do Usuário para Visualizar e Editar Dados da Conta
@@ -216,17 +229,6 @@ Eu, como admin, quero um FAQ na minha página que mostre soluções para problem
 - **User Story 3:**
     - **Task 3.2:** Funcionalidade de Alteração de Senha
 
-- **User Story 5:**
-    - **Task 5.1:** Adicionar Funcionalidade de Marcação de Ticket Concluído
-
-### Sprint 3 (3 semanas):
-**Objetivo**: Desenvolver funcionalidades de tickets básicos e começar a trabalhar nas métricas.
-
-- **User Story 7:**
-    - **Task 7.1:** Formulário de Criação de Tickets
-
-- **User Story 8:**
-    - **Task 8.1:** Funcionalidade de Resposta a Tickets
 
 - **User Story 6:**
     - **Task 6.1:** Indicação de Tempo de Resposta Excedido
