@@ -48,16 +48,7 @@ Eu, como usuário, quero poder criar uma conta que guarda meu nome, meus tickets
         - A senha deve atender aos requisitos de segurança definidos.
 - **Task 1.2: Armazenamento de Dados da Conta**
     - Critérios de Aceitação:
-        - Implesuário, quero poder acessar informações básicas da minha conta e poder mudar minha senha. | 4 | 3 | 1 |
-| 4 | Baixa | Eu, como admin, quero uma página dedicada a mostrar métricas dedicadas a estatísticas sobre a minha gestão de chamadas de serviços. | 5 | 4 | 2 |
-| 5 | Baixa | Eu, como cliente, quero poder marcar um ticket como concluído se o meu problema for resolvido. | 3 | 3 | 2 |
-| 6 | Média | Eu, como técnico, quero que fique claro na página se um ticket já ultrapassou seu tempo de resposta estipulado. | 3 | 3 | 3 |
-| 7 | Alta | Eu, como usuário, quero poder criar tickets descrevendo um problema que estou tendo com a empresa. | 8 | 2 | 3 |
-| 8 | Alta | Eu, como técnico, quero poder responder tickets dos clientes. | 7 | 2 | 3 |
-| 9 | Baixa | Eu, como técnico, quero poder mudar o status de um ticket. | 2 | 2 | 4 |
-| 10 | Média | Eu, como admin, quero que cada tipo de problema tenha um tempo de resposta diferente para que meus suportes possam ver quais tickets priorizar. | 3 | 3 | 6 |
-| 11 | Baixa | Eu, como admin, quero um FAQ na minha página que mostre soluções para problemas frequentes. | 1 | 4 | 7 |
-| 12 | Baixa | Eu, como admin, quero que meu FAQ encoraje meu cliente a criar uma conta caso o problema dele não esteja listado acima. | 1 | 4 | 7 |
+        - Implesuário, quero poder acessar informações básicas da minha conta e poder mudar minha senha.
 
 # Tasks
 
