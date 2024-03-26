@@ -194,6 +194,10 @@ Eu, como admin, quero um FAQ na minha página que mostre soluções para problem
 # Tasks por sprint 
 
 ### Sprint 1 (3 semanas):
+**Objetivo**: Desenvolver protótipo para validar as telas com o cliente.
+- **Task 12**: Desenvolvimento do protótipo.
+
+### Sprint 2 (3 semanas):
 **Objetivo**: Configuração inicial do sistema de autenticação e criação de contas, além de desenvolvimento básico da interface do usuário.
 
 - **User Story 1:**
@@ -207,7 +211,8 @@ Eu, como admin, quero um FAQ na minha página que mostre soluções para problem
 - **User Story 3:**
     - **Task 3.1:** Interface para Visualização de Informações da Conta
 
-### Sprint 2 (3 semanas):
+
+### Sprint 3 (3 semanas):
 **Objetivo**: Desenvolver funcionalidades de tickets básicos.
 
 - **User Story 7:**
@@ -220,22 +225,17 @@ Eu, como admin, quero um FAQ na minha página que mostre soluções para problem
     - **Task 5.1:** Adicionar Funcionalidade de Marcação de Ticket Concluído
 
 
-### Sprint 3 (3 semanas):
-**Objetivo**: Implementar funcionalidades de autenticação avançadas e começar a trabalhar na interface do usuário.
+- **User Story 6:**
+    - **Task 6.1:** Indicação de Tempo de Resposta Excedido
+
+### Sprint 4 (3 semanas):
+**Objetivo**: Aprimorar funcionalidades de tickets, implementar a página de FAQ, métricas,começar a trabalhar na interface do usuário e ajustes finais.
 
 - **User Story 1:**
     - **Task 1.3:** Interface do Usuário para Visualizar e Editar Dados da Conta
 
 - **User Story 3:**
     - **Task 3.2:** Funcionalidade de Alteração de Senha
-
-
-- **User Story 6:**
-    - **Task 6.1:** Indicação de Tempo de Resposta Excedido
-
-### Sprint 4 (3 semanas):
-**Objetivo**: Aprimorar funcionalidades de tickets, implementar a página de FAQ, métricas e ajustes finais.
-
 - **User Story 4:**
     - **Task 4.1:** Desenvolvimento da Página de Métricas
 
